@@ -9,8 +9,8 @@
 // note: factorial of 0 is 1
 
 function factorial(int) {
-    let iteration = []
-    for (let i = 1; i <= int; i++){
+    let iteration = [1,]
+    for (let i = 2; i <= int; i++){
         iteration.push(i);
         
     }
@@ -19,7 +19,7 @@ function factorial(int) {
         return a * b;
     });
 }
-
+console.log(factorial(5));
 
 
 
