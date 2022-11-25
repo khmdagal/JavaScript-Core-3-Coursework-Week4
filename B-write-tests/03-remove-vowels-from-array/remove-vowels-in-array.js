@@ -8,7 +8,7 @@ function removeVowelsFromWords(words) {
   return result;
 }
 
-console.log(removeVowelsFromWords(words));
+//console.log(removeVowelsFromWords(words));
 
 module.exports = removeVowelsFromWords;
 
