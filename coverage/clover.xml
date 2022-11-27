@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1669497096795" clover="3.2.0">
-  <project timestamp="1669497096795" name="All files">
-    <metrics statements="29" coveredstatements="25" conditionals="6" coveredconditionals="4" methods="9" coveredmethods="6" elements="44" coveredelements="35" complexity="0" loc="29" ncloc="29" packages="5" files="6" classes="6"/>
+<coverage generated="1669508962847" clover="3.2.0">
+  <project timestamp="1669508962847" name="All files">
+    <metrics statements="41" coveredstatements="37" conditionals="18" coveredconditionals="16" methods="13" coveredmethods="10" elements="72" coveredelements="63" complexity="0" loc="41" ncloc="41" packages="6" files="8" classes="8"/>
     <package name="A-pass-tests.01-factorial">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <file name="factorial.js" path="C:\Users\KDagal\Desktop\CYF\Clone-projects\JavaScript\JS_Core3\consolidation_week\JavaScript-Core-3-Coursework-Week4\A-pass-tests\01-factorial\factorial.js">
@@ -40,6 +40,27 @@
         <line num="9" count="4" type="stmt"/>
         <line num="12" count="7" type="stmt"/>
         <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="B-write-tests.03-remove-vowels-from-array">
+      <metrics statements="12" coveredstatements="12" conditionals="12" coveredconditionals="12" methods="4" coveredmethods="4"/>
+      <file name="remove-vowels-in-array.js" path="C:\Users\KDagal\Desktop\CYF\Clone-projects\JavaScript\JS_Core3\consolidation_week\JavaScript-Core-3-Coursework-Week4\B-write-tests\03-remove-vowels-from-array\remove-vowels-in-array.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="remove-vowels.js" path="C:\Users\KDagal\Desktop\CYF\Clone-projects\JavaScript\JS_Core3\consolidation_week\JavaScript-Core-3-Coursework-Week4\B-write-tests\03-remove-vowels-from-array\remove-vowels.js">
+        <metrics statements="7" coveredstatements="7" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
       </file>
     </package>
     <package name="B-write-tests.06-largest-number">
